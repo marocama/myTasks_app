@@ -1,16 +1,24 @@
-# mytasks
+# My Tasks
 
-A Flutter application to manage tasks.
+A ideia deste projeto é desenvolver uma aplicação Flutter que gerencie minhas tarefas diárias.
 
-## Getting Started
+### Instalação
 
-This project is a starting point for a Flutter application.
+Clone o repositório, obtendo todos os arquivos gerados pelo projeto do Flutter.
 
-A few resources to get you started if this is your first Flutter project:
+```sh
+$ git clone https://github.com/marocama/myTasks_app.git
+```
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+### Objetivos
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[ ] Interface para listar tarefas
+[ ] Interface para inserir nova tarefa
+[ ] Salvar tarefa localmente
+[ ] Salvar tarefa remotamente 
+[ ] Recuperar tarefas ao inicializar o app
+[ ] Marcar tarefa como concluída
+[ ] Ao final do dia, não exibi-lá mais
+[ ] Exibir um histórico de todas as tarefas já registradas
+[ ] Elaborar despertadores para cada tarefa
+
